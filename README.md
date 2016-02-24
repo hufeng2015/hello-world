@@ -1,3 +1,3 @@
 # hello-world
-My first repository in Github
-Make some change,in order to make change.
+## My first repository on Github
+### Make some change,in order to make change.
